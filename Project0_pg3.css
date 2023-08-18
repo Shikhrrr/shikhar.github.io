@@ -1,0 +1,49 @@
+#header{
+    border-bottom: 0.2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    position:relativ;
+    top: 0;
+    left: 20px;
+    height: 100px;
+    width: 250px;
+}
+
+h3{
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 22px;
+    color:crimson;
+}
+
+#sec2{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 20vh;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    font-size:medium;
+}
+
+#h2{
+    font-weight: normal;
+    font-size: x-large;
+}
+
+table{
+    
+}
+
+a{
+    position: fixed;
+    top: 0;
+    right: 0px;
+    color: brown;
+}
+
+.input1{
+    width: 75vh;
+}
